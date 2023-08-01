@@ -1,9 +1,10 @@
 class Solution {
 public:
-    set<vector<int>> se;
+    vector<vector<int>> ans;
     void rec(int n,int k,vector<int>& temp,int i){
         if(temp.size()==k){
-            se.insert(temp);
+            ans.push_back(temp);
+            return;
         }
         if(i>n) return;
         temp.push_back(i);
@@ -15,10 +16,7 @@ public:
     vector<vector<int>> combine(int n, int k) {
         vector<int> temp;
         rec(n,k,temp,1);
-        vector<vector<int>> ans;
-        for(auto a:se){
-            ans.push_back(a);
-        }
         return ans;
     }
 };
+
