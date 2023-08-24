@@ -29,21 +29,13 @@ public:
             dfs(root->right,target,temp,sum+(root->right->val));
             temp.pop_back();
         }
-
-        
-        
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<int> temp;
-        vector<vector<int>> final;
-        if(root==NULL) return final;
+        if(root==NULL) return ans;
         temp.push_back(root->val);
         dfs(root,targetSum,temp,root->val);
-        
-        // for(auto a: ans){
-        //     final.push_back(a);
-        // }
         return ans;
     }
 };
