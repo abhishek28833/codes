@@ -5,12 +5,9 @@ public:
             mp[{i,j}] = qua;
             if(mp[{i,j}] > 1){
                 double val = mp[{i,j}]-1;
-                
                 return double(val)/double(2);
             }
-            else{
-                return 0.0;
-            }
+            else return 0.0;
         } 
 
         if(mp.count({i,j})){
@@ -57,6 +54,5 @@ public:
         rec(poured,mp,query_row,query_glass);
         if(mp[{query_row,query_glass}]>1) return 1.0;
         else return mp[{query_row,query_glass}];
-        // return mp[{query_row,query_glass}];
     }
 };
