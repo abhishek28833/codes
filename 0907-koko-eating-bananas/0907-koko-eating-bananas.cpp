@@ -30,6 +30,7 @@ public:
             if(piles[0]%h==0) return piles[0]/h;
             else return piles[0]/h+1;
         }
-        return bs(piles,1,INT_MAX,h,n);
+        int maxi = *max_element(piles.begin(),piles.end());
+        return bs(piles,1,maxi,h,n);
     }
 };
