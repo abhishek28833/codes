@@ -15,4 +15,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/abhishek28833/codes/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/abhishek28833/codes/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/abhishek28833/codes/tree/master/0876-hand-of-straights) |
+# Hash Table
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/abhishek28833/codes/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/abhishek28833/codes/tree/master/0876-hand-of-straights) |
