@@ -10,50 +10,41 @@
  */
 class Solution {
 public:
-    int count(ListNode* head){
-        int cnt =0;
-        while(head != NULL){
+    int count(ListNode* st){
+        ListNode* head = st;
+        int cnt = 0;
+        while(head!=NULL){
             cnt++;
             head = head->next;
         }
         return cnt;
     }
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        vector<ListNode*> arr;
         int cnt = count(head);
-        vector<ListNode*> ans;
-        int div = cnt/k;
-        int mod = cnt % k;
-        if(cnt>k){
-            while(head != NULL){
-                ans.push_back(head);
-                for(int i=0;i<div-1;i++){
-                    head = head->next;
-                }
-                if(mod != 0){
-                    head = head->next;
-                    mod--;
-                }
-                ListNode* save = head;
-                if(head != NULL){
-                    head = head->next;
-                    save->next = NULL;
-                }
+        int val = cnt/k;
+        int rem = cnt%k;
+        // cout<<cnt;
+        ListNode* temp=head,*curr=head;
+        while(k--){
+            temp = curr;
+            arr.push_back(curr);
+            int c = val;
+            while(c--){
+                temp = curr;
+                if(curr)
+                curr = curr->next;
             }
+            if(rem>0){
+                temp = curr;
+                if(curr)
+                curr = curr->next;
+                rem--;
+            }
+            if(temp)
+            temp->next = NULL;
+
         }
-        else{
-            while(head != NULL){
-                ans.push_back(head);
-                ListNode* save = head;
-                head = head->next;
-                save->next = NULL;
-            }
-            if(cnt<k){
-                int a = k-cnt;
-                for(int i=0;i<a;i++){
-                    ans.push_back(NULL);
-                }
-            }
-        }
-        return ans;
+        return arr;
     }
 };
