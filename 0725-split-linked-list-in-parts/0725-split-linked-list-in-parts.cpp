@@ -32,7 +32,6 @@ public:
             int c = val;
             while(c--){
                 temp = curr;
-                if(curr)
                 curr = curr->next;
             }
             if(rem>0){
