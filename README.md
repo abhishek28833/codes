@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
@@ -109,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
