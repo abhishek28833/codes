@@ -98,14 +98,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -114,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
