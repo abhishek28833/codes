@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -53,10 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Simulation
 |  |
@@ -122,4 +125,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
