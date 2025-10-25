@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/abhishek28833/codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Counting
