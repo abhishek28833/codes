@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -177,4 +181,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
