@@ -4,8 +4,9 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
         for(int i=0;i<n;i++){
+            if(i>0 && nums[i] == nums[i-1]) continue;
             for(int j=i+1;j<n;j++){
-                
+                if(j!=i+1 && nums[j] == nums[j-1]) continue;
                 int left = j+1;
                 int right = n-1;
                 
@@ -13,10 +14,11 @@ class Solution {
                     long sum = (long)nums[i] + nums[j] + nums[left] + nums[right];
                     if(sum == target){
                         List<Integer> temp = new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
-                        if(!ans.contains(temp))
-                            ans.add(temp);
+                        ans.add(temp);
                         left+=1;
-                        right-=1;    
+                        right-=1;  
+                        while(left < right && nums[left] == nums[left-1]) left++;  
+                        while(left < right && nums[right] == nums[right+1]) right--;  
                     }else if(sum > target){
                         right--;
                     }else{
