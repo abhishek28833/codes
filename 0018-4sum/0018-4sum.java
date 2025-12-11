@@ -1,6 +1,7 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
             for(int j=i+1;j<nums.length;j++){
                 Map<Long,Integer> mp = new HashMap<>();
@@ -9,7 +10,6 @@ class Solution {
                     
                     if(mp.containsKey(need)) {
                         List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], nums[mp.get(need)]);
-                        Collections.sort(temp);
                         if(!ans.contains(temp)) ans.add(temp);
                     }
                     
