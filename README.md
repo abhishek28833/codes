@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishek28833/codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/abhishek28833/codes/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/abhishek28833/codes/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
 | ------- |
