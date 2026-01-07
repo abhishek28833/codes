@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishek28833/codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/abhishek28833/codes/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/abhishek28833/codes/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/abhishek28833/codes/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 ## Matrix
 |  |
 | ------- |
