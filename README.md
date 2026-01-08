@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Tree
 |  |
