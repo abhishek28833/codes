@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishek28833/codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhishek28833/codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
@@ -242,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhishek28833/codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
