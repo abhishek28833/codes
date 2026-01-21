@@ -1,29 +1,35 @@
 class Solution {
 public:
-bool ispalin(string s,int i,int j){
-    string str1 = s.substr(i,j-i+1);
-    string str2 = str1;
-    reverse(str2.begin(),str2.end());
-    return str1==str2;
-}
-vector<vector<string>> ans;
-    void rec(string s,int i,vector<string>& curr){
-        if(i==s.size()){
+    bool checkPali(string& s,int n){
+        int i=0,j=n-1;
+        while(i<j){
+            if(s[i] != s[j]) return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
+
+    void rec(vector<vector<string>>& ans, string s,int i,vector<string>& curr,int n){
+        if(i == n){
             ans.push_back(curr);
             return;
         }
-        for(int j=i;j<s.size();j++){
-            if(ispalin(s,i,j)){
-                curr.push_back(s.substr(i,j-i+1));
-                rec(s,j+1,curr);
+
+        for(int j=i;j<n;j++){
+            string str = s.substr(i,j-i+1);
+            if(checkPali(str, j-i+1)){
+                curr.push_back(str);
+                rec(ans,s,j+1,curr,n);
                 curr.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
+        vector<vector<string>> ans;
         vector<string> curr;
-        rec(s,0,curr);
+        int n = s.size();
+        rec(ans,s,0,curr,n);
         return ans;
-        
     }
 };
