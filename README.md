@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishek28833/codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/abhishek28833/codes/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/abhishek28833/codes/tree/master/3444-find-the-number-of-good-pairs-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/abhishek28833/codes/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/abhishek28833/codes/tree/master/0725-split-linked-list-in-parts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -193,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Merge Sort
 |  |
@@ -223,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhishek28833/codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
