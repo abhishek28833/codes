@@ -1,19 +1,16 @@
 class Solution {
 public:
-    unordered_map<int,int> mp;
+    unordered_map<int,int> vis;
 
     int totalFact(int n){
-        int fact = 1;
-        for(int i=1;i<=n;i++){
-            fact *= i;
-        }
-        return fact;
+        if(n==1) return 1;
+        return n*totalFact(n-1);
     }
 
     int unVisited(int n,int x){
         int cnt = 0;
         for(int i=1;i<=n;i++){
-            if(!mp.count(i)){
+            if(!vis.count(i)){
                 cnt++;
                 if(cnt == x || x==0) return i;
             }
@@ -21,31 +18,24 @@ public:
         return 0;
     }
 
+    string rec(int cn, int ck,int n){
+        if(cn == 0) return "";
+        int fact = totalFact(cn), value = fact/cn ,x;
+
+        if(ck%value == 0) x = unVisited(n,(ck/value));
+        else x = unVisited(n,(ck/value)+1);
+
+        vis[x]++;
+        
+        int y = value * (ck/value);
+
+        if(y < ck) ck = ck-y;
+        else ck = value;
+        
+        return to_string(x) + rec(cn-1,ck,n);
+    }
+
     string getPermutation(int n, int k) {
-        string ans = "";
-
-        int cn = n;
-        int ck = k;
-        while(cn){
-            int fact = totalFact(cn);
-            int value = fact/cn ;
-            int x;
-            if(ck%value == 0) x = unVisited(n,(ck/value));
-            else x = unVisited(n,(ck/value)+1);
-
-            mp[x]++;
-            ans += to_string(x);
-            cn--;
-            int y = value * (ck/value);
-
-            if(y < ck){
-                ck = ck-y;
-            }else{
-                ck = value;
-            }
-
-            
-        }
-        return ans;
+        return rec(n,k,n);
     }
 };
