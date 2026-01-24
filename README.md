@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/abhishek28833/codes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishek28833/codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -270,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/abhishek28833/codes/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
