@@ -33,17 +33,9 @@ public:
             if(ck%value == 0) x = unVisited(n,(ck/value));
             else x = unVisited(n,(ck/value)+1);
 
-            
-
-            cout<<"cn: "<<cn<<" x: "<<x<<" ck: "<<ck<<" value: "<<value<<"\n";
-
-            // ck = (ck%value == 0)? ck/value : (ck/value);
-            
-
             mp[x]++;
             ans += to_string(x);
             cn--;
-            // ck = (ck%value != 0)?ck-value:min(ck,cn);
             int y = value * (ck/value);
 
             if(y < ck){
