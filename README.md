@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek28833/codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek28833/codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3799-word-squares-ii](https://github.com/abhishek28833/codes/tree/master/3799-word-squares-ii) |
 ## Linked List
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Recursion
 |  |
 | ------- |
