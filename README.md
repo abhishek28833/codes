@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/abhishek28833/codes/tree/master/1200-minimum-absolute-difference) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek28833/codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/abhishek28833/codes/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek28833/codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/abhishek28833/codes/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
