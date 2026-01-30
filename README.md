@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishek28833/codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhishek28833/codes/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/abhishek28833/codes/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhishek28833/codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3799-word-squares-ii](https://github.com/abhishek28833/codes/tree/master/3799-word-squares-ii) |
 ## Divide and Conquer
 |  |
@@ -286,9 +288,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
