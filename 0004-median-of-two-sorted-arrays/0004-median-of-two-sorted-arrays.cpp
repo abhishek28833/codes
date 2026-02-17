@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+    // it returns the number of element less than or eqal to the val , cnt is done because of the similar element in both of the array.
     int bs2(vector<int>& nums,int n,int val,int cnt){
         int ans = 0;
         int low = 0,high = n-1;
@@ -19,6 +21,7 @@ public:
         return ans;
     }
 
+    // it return the number if it is from the nums 1 .
     int bs1(vector<int>& nums1, vector<int>& nums2,int idx,int n, int  m){
         int low = 0,high = n-1;
 
