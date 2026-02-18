@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/abhishek28833/codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhishek28833/codes/tree/master/2965-find-missing-and-repeated-values) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3799-word-squares-ii](https://github.com/abhishek28833/codes/tree/master/3799-word-squares-ii) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek28833/codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Recursion
 |  |
