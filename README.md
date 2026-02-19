@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/abhishek28833/codes/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/abhishek28833/codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Tree
@@ -309,4 +313,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
