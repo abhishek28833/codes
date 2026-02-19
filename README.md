@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/abhishek28833/codes/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/abhishek28833/codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishek28833/codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
