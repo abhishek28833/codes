@@ -1,29 +1,31 @@
 class Solution {
 public:
-    bool rec(string s,unordered_set<string>& se,unordered_map<string,bool>& dp){
-        int n = s.length();
-        if(n==0) return true;
-
-        if(dp.count(s)) return dp[s];
-        
-        for(int i=0;i<n;i++){
-            if(se.count(s.substr(0,i+1))){
-                if(rec(s.substr(i+1),se,dp))
-                return dp[s] = true;
-            }
+    map<pair<string,int>,bool> dp;
+    bool rec(string& s,int n, string str,int i,set<string>& se){
+        if(i == n){
+            if(se.count(str)) return true;
+            return false;
         }
-        return dp[s] = false;
-        
+
+        // cout<<str<<" ";
+        if(dp.count({str,i})) return dp[{str,i}];
+
+        bool flag = false;
+        if(se.count(str)){
+            string stemp(1,s[i]);
+            if(rec(s,n,stemp,i+1,se)) flag = true;
+        }
+
+        if(rec(s,n,str + s[i],i+1,se)) flag = true;
+        return dp[{str,i}] = flag;
     }
 
     bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> se;
+        set<string> se;
         for(auto a: wordDict){
             se.insert(a);
         }
-        unordered_map<string,bool> dp;
-        return rec(s,se,dp);
-        
+        return rec(s,s.size(),"",0,se);
+
     }
 };
-
