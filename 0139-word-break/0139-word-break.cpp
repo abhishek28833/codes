@@ -1,7 +1,7 @@
 class Solution {
 public:
     map<pair<string,int>,bool> dp;
-    bool rec(string& s,int n, string str,int i,set<string>& se){
+    bool rec(string& s,int n, string str,int i,unordered_set<string>& se){
         if(i == n){
             if(se.count(str)) return true;
             return false;
@@ -21,7 +21,7 @@ public:
     }
 
     bool wordBreak(string s, vector<string>& wordDict) {
-        set<string> se;
+        unordered_set<string> se;
         for(auto a: wordDict){
             se.insert(a);
         }
