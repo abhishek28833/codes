@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -272,15 +273,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
