@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+
+    // MORIS TRAVERSAL FOR INORDER WITH TIMECOMPLEXITY: O(n) SPACE: O(1)
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> inorder;
         TreeNode* curr = root;
