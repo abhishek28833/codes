@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
