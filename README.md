@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/abhishek28833/codes/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
+| [1622-fancy-sequence](https://github.com/abhishek28833/codes/tree/master/1622-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishek28833/codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/abhishek28833/codes/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 ## String
 |  |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/abhishek28833/codes/tree/master/1622-fancy-sequence) |
 ## Ordered Set
 |  |
 | ------- |
