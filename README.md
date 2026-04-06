@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek28833/codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek28833/codes/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek28833/codes/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishek28833/codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -340,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
