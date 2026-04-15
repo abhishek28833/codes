@@ -41,6 +41,7 @@ public:
         int n = nums.size(),ans=0;
         for(int i=0;i<n;i++){
             if(i%2 == 0){
+                if(!checkPrime(nums[i]))
                 ans += justGreaterPrime(nums[i])-nums[i];
             }else{
                 if(nums[i] == 2) ans += 2;
