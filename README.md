@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abhishek28833/codes/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abhishek28833/codes/tree/master/0152-maximum-product-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhishek28833/codes/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhishek28833/codes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek28833/codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
