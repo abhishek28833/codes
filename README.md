@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/abhishek28833/codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/abhishek28833/codes/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/abhishek28833/codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek28833/codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/abhishek28833/codes/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/abhishek28833/codes/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishek28833/codes/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
