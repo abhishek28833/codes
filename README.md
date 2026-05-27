@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/abhishek28833/codes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek28833/codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/abhishek28833/codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek28833/codes/tree/master/0033-search-in-rotated-sorted-array) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhishek28833/codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhishek28833/codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
