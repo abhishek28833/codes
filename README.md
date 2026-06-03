@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek28833/codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishek28833/codes/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abhishek28833/codes/tree/master/2367-number-of-arithmetic-triplets) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishek28833/codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/abhishek28833/codes/tree/master/1200-minimum-absolute-difference) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhishek28833/codes/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek28833/codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/abhishek28833/codes/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0801-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek28833/codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek28833/codes/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -316,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek28833/codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek28833/codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishek28833/codes/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishek28833/codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishek28833/codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
 |  |
