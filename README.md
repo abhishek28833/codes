@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishek28833/codes/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek28833/codes/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishek28833/codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/abhishek28833/codes/tree/master/0680-valid-palindrome-ii) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/abhishek28833/codes/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek28833/codes/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/abhishek28833/codes/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/abhishek28833/codes/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishek28833/codes/tree/master/0295-find-median-from-data-stream) |
 | [1622-fancy-sequence](https://github.com/abhishek28833/codes/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/abhishek28833/codes/tree/master/2169-simple-bank-system) |
 ## String
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishek28833/codes/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/abhishek28833/codes/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhishek28833/codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishek28833/codes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -377,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhishek28833/codes/tree/master/0785-is-graph-bipartite) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishek28833/codes/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
