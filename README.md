@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishek28833/codes/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/abhishek28833/codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhishek28833/codes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/abhishek28833/codes/tree/master/0031-next-permutation) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek28833/codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhishek28833/codes/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/abhishek28833/codes/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishek28833/codes/tree/master/0139-word-break) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishek28833/codes/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/abhishek28833/codes/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/abhishek28833/codes/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/abhishek28833/codes/tree/master/0131-palindrome-partitioning) |
@@ -391,4 +394,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhishek28833/codes/tree/master/0225-implement-stack-using-queues) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishek28833/codes/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
